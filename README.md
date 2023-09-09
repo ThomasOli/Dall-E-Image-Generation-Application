@@ -60,7 +60,7 @@ The search bar can be used to search within the community photo repository.
 ## Setup
 ### Clone the repository:
 ```
-git clone https://github.com/yourusername/dall-e-image-generator.git
+git clone https://github.com/ThomasOli/dall-e-image-generator.git
 
 ```
 ### Install dependencies for the frontend and backend:
