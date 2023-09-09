@@ -1,25 +1,15 @@
 # FullStack-Dall-E
-The front end is created using React and JS, and backend consists of the MERN Stack(MongoDB, Express, React Node) All images are generated using the dall-e api by OpenAI
+The front end is created using React and JS, and backend consists of the MERN Stack(MongoDB, Express, React Node) All images are generated using the dall-e API by OpenAI
 The user can input a prompt they want the AI to generate an image for.
-![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/840ac90d-dab5-4770-b9db-0c902748173a)\
 
-![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/89b03ede-3bd6-4162-99c4-9b332f884529)
+**Overview**
+DALL-E Image Generator is a full-stack web application that leverages the power of OpenAI's DALL-E API to create images based on user input prompts. This project combines cutting-edge AI technology with a modern MERN stack to provide a seamless and interactive image-generation experience.
 
-After the image is generated, the user can choose to post their image to the community showcase.
-![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/b35b6a68-6ea4-46d8-bb40-f78fd578ae19)
-The search bar can be used to search within the community photo repository.
-![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/6e4dfd07-ada5-4386-a560-f8e65dac75f5)
+#Features
 
-DALL-E Image Generator
-Project Demo
-
-Overview
-DALL-E Image Generator is a full-stack web application that leverages the power of OpenAI's DALL-E API to create images based on user input prompts. This project combines cutting-edge AI technology with a modern MERN stack to provide a seamless and interactive image generation experience.
-
-Features
 AI-Powered Image Generation: Users can input prompts or descriptions, and the application utilizes the DALL-E API to generate unique and creative images based on those prompts.
 
-MERN Stack: The project is built on the MERN stack, consisting of MongoDB for database storage, Express.js for the backend API, React for the frontend, and Node.js as the server runtime.
+MERN Stack: The project is built on the MERN stack, consisting of MongoDB for database storage, Express.js for the backend API, React for the front end, and Node.js as the server runtime.
 
 User Authentication: Users can create accounts, log in, and save their generated images to their profiles. Authentication is handled securely with JWT tokens.
 
@@ -29,7 +19,8 @@ Responsive Design: The user interface is designed to be responsive and user-frie
 
 Image Storage: Generated images are stored securely and efficiently in the MongoDB database.
 
-Technologies Used
+**Technologies Used**
+
 Frontend:
 
 React.js
@@ -48,6 +39,21 @@ MongoDB
 AI Integration:
 
 OpenAI DALL-E API
+
+![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/840ac90d-dab5-4770-b9db-0c902748173a)\
+
+![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/89b03ede-3bd6-4162-99c4-9b332f884529)
+
+After the image is generated, the user can choose to post their image to the community showcase.
+![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/b35b6a68-6ea4-46d8-bb40-f78fd578ae19)
+The search bar can be used to search within the community photo repository.
+![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/6e4dfd07-ada5-4386-a560-f8e65dac75f5)
+
+
+
+
+
+
 Setup
 Clone the repository:
 
