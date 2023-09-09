@@ -57,47 +57,45 @@ The search bar can be used to search within the community photo repository.
 
 
 
-Setup
-Clone the repository:
-
-bash
-Copy code
+## Setup
+### Clone the repository:
+```
 git clone https://github.com/yourusername/dall-e-image-generator.git
-Install dependencies for the frontend and backend:
 
-bash
-Copy code
+```
+### Install dependencies for the frontend and backend:
+
+```
 cd dall-e-image-generator/frontend
 npm install
-
 cd ../backend
 npm install
-Configure environment variables for both the frontend and backend. Include API keys and other sensitive information.
+```
+### Configure environment variables for both the frontend and backend. Include API keys and other sensitive information.
 
-Start the development server for both the frontend and backend:
+### Start the development server for both the frontend and backend:
 
-bash
-Copy code 
-# Frontend (from the frontend directory)
+
+Frontend (from the frontend directory)
+```
 npm start
-
-# Backend (from the backend directory)
+```
+Backend (from the backend directory)
+```
 npm start
-Access the application in your web browser at http://localhost:3000.
+```
+### Access the application in your web browser at http://localhost:3000.
 
-Usage
+## Usage
 Sign up for an account or log in if you already have one.
-
 Input a prompt or description for the image you want to generate.
-
 Click the "Generate Image" button, and watch DALL-E work its magic!
-
 View and save the generated image to your profile.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for bug fixes, enhancements, or new features.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 This DALL-E Image Generator project demonstrates the seamless integration of AI technology with a robust MERN stack, providing users with a creative and interactive experience. Give it a try and bring your imagination to life through AI-generated images!
