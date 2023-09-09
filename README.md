@@ -5,7 +5,7 @@ The user can input a prompt they want the AI to generate an image for.
 **Overview**
 DALL-E Image Generator is a full-stack web application that leverages the power of OpenAI's DALL-E API to create images based on user input prompts. This project combines cutting-edge AI technology with a modern MERN stack to provide a seamless and interactive image-generation experience.
 
-#Features
+# Features
 
 AI-Powered Image Generation: Users can input prompts or descriptions, and the application utilizes the DALL-E API to generate unique and creative images based on those prompts.
 
@@ -19,24 +19,27 @@ Responsive Design: The user interface is designed to be responsive and user-frie
 
 Image Storage: Generated images are stored securely and efficiently in the MongoDB database.
 
-**Technologies Used**
+# Technologies Used
 
-Frontend:
+**Frontend:**
 
 React.js
 Axios for API requests
 Material-UI for UI components
 Redux for state management
-Backend:
+
+**Backend:**
 
 Express.js
 Node.js
 JWT for authentication
 Mongoose for MongoDB interactions
-Database:
+
+**Database:**
 
 MongoDB
-AI Integration:
+
+**AI Integration:**
 
 OpenAI DALL-E API
 
@@ -74,7 +77,7 @@ Configure environment variables for both the frontend and backend. Include API k
 Start the development server for both the frontend and backend:
 
 bash
-Copy code
+Copy code 
 # Frontend (from the frontend directory)
 npm start
 
