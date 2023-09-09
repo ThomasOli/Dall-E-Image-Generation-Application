@@ -2,7 +2,7 @@
 The front end is created using React and JS, and backend consists of the MERN Stack(MongoDB, Express, React Node) All images are generated using the dall-e API by OpenAI
 The user can input a prompt they want the AI to generate an image for.
 
-**Overview**
+**Overview:**
 DALL-E Image Generator is a full-stack web application that leverages the power of OpenAI's DALL-E API to create images based on user input prompts. This project combines cutting-edge AI technology with a modern MERN stack to provide a seamless and interactive image-generation experience.
 
 # Features
