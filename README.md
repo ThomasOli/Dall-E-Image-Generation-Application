@@ -95,7 +95,7 @@ View and save the generated image to your profile.
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for bug fixes, enhancements, or new features.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 This DALL-E Image Generator project demonstrates the seamless integration of AI technology with a robust MERN stack, providing users with a creative and interactive experience. Give it a try and bring your imagination to life through AI-generated images!
