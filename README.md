@@ -1,5 +1,5 @@
 # FullStack-Dall-E
-This application's front end is created using React and JS, and backend consists of the MERN Stack(MongoDB, Express, React Node) All images are generated using the dall-e API by OpenAI
+This application's front end is created using React and JavaScript, and backend consists of the MERN Stack(MongoDB, Express, React Node). All images are generated using the dall-e API by OpenAI.
 The user can input a prompt they want the AI to generate an image for.
 
 **Overview:**
