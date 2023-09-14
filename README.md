@@ -50,6 +50,8 @@ OpenAI DALL-E API
 After the image is generated, the user can choose to post their image to the community showcase.
 ![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/b35b6a68-6ea4-46d8-bb40-f78fd578ae19)
 The search bar can be used to search within the community photo repository.
+![image](https://github.com/ThomasOli/Dall-E-Image-Generation-Application/assets/51518411/271f172a-fd42-4169-91d1-f7d1c1e76b04)
+
 ![image](https://github.com/ThomasOli/FullStack-Dall-E/assets/51518411/6e4dfd07-ada5-4386-a560-f8e65dac75f5)
 
 
